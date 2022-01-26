@@ -1,7 +1,8 @@
 package CommonVariables;
 
 
-public class CommonConstantAndData {
+public class CommonConstantAndData
+{
 
 	public static String chromeDrivervalue="webdriver.chrome.driver";
 	
